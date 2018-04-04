@@ -2,3 +2,6 @@ Hello World!
 Hello New world
 
 feature2 added
+
+feature1 added
+fetaure1 is very cool
